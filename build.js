@@ -1,0 +1,1 @@
+({"baseUrl":"dist/js","paths":{"jquery":"../lib/zepto/zepto.min","backbone":"../lib/backbone/backbone-min","underscore":"../lib/underscore/underscore-min"},"shim":{"jquery":{"exports":"$"},"backbone":{"deps":["underscore","jquery"]}},"name":"main","optimize":"none","out":"dist/js/main-built.js"})
